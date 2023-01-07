@@ -1,0 +1,25 @@
+#Head{
+    font-family: verdana;
+    font-size: 25px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    line-height: 2;
+    text-align: center;
+    padding-left: 10px;
+}
+#Head p{
+    font-family: courier new;
+    font-size: 10px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 3;
+    font-family: courier new;
+    font-size: 10px;
+}
